@@ -1,10 +1,6 @@
 
 musicas_2019 <- read.csv("mais tocadas 2019 - playlist.csv") 
-
-musicas_2021 <- read.csv("mais ouvidas 2021 - playlist.csv")
-
 musicas_2020 <- read.csv("mais ouvidas 2020 - playlist.csv")
-
 musicas_2018 <- read.csv("mais ouvidas 2018 - playlist.csv")
 musicas_2021 <- read.csv("mais ouvidas 2021 - playlist.csv")
 library(tidyverse)
